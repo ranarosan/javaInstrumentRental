@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=InstrumentToSell
+comment0.text=Write\ a\ description\ of\ class\ InstrumentToSell\ here.\r\n\ \r\n\ @author\ (Roshan\ Rana)\r\n\ 21049688\r\n
+comment1.params=InstrumentName\ price
+comment1.target=InstrumentToSell(java.lang.String,\ float)
+comment10.params=customerName\ customerMobileNumber\ panNo\ sellDate\ discountPercentage
+comment10.target=void\ sellInstruments(java.lang.String,\ java.lang.String,\ int,\ java.lang.String,\ float)
+comment11.params=
+comment11.target=void\ display()
+comment2.params=
+comment2.target=float\ getPrice()
+comment3.params=price
+comment3.target=void\ setPrice(float)
+comment4.params=
+comment4.target=java.lang.String\ getSellDate()
+comment5.params=sellDate
+comment5.target=void\ setSellDate(java.lang.String)
+comment6.params=
+comment6.target=float\ getDiscountPercent()
+comment7.params=discountPercent
+comment7.target=void\ setDiscountPercent(float)
+comment8.params=
+comment8.target=boolean\ getIsSold()
+comment9.params=isSold
+comment9.target=void\ setIsSold(boolean)
+numComments=12
